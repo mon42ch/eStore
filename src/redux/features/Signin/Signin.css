@@ -1,0 +1,33 @@
+#signin{
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+}
+h2{
+    text-align: center;
+}
+
+input{
+    width: 100%
+}
+#borders{
+    padding: 1rem 3rem;
+    box-shadow: 5px 5px 10px 4px lightblue;
+    border: 1px solid #000;
+}
+.labels{
+    padding: 1rem 0;
+    text-align: justify;
+}
+
+#links{
+    display: block;
+    /* color: #000!important; */
+    text-decoration: none;
+    margin: 1rem;
+}
